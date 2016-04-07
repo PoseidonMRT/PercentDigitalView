@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PercentDigitalView">
+        <attr name="innerCircleRadius" format="integer"></attr>
+        <attr name="ringWidth" format="integer"></attr>
+        <attr name="ringPercent" format="integer"></attr>
+    </declare-styleable>
+</resources>
